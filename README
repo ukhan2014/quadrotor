@@ -1,12 +1,12 @@
 Quadrotor build Readme
 
 Parts needed:
-1. Frame
+1. Frame - peon230 frame 3d printed
 2. Battery
 3. Props
 4. Motors
 5. ESCs
-6. Control board
+6. Control board - arduino nano
 7. Gyro - L3G4200D Tri axis
 8. Controller/joystick/radio
 9. Magnetometer
@@ -14,10 +14,9 @@ Parts needed:
 11. Barometer
 12. Altimeter
 13. GPS
-14. Controller/joystick/radio
-15. Cell/GSM radio
+14. Cell/GSM radio
 
-Parts [1-8] required, [9-15] optional
+Parts [1-8] required, [9-14] optional
 
 Guide:
 https://www.youtube.com/watch?v=XFxqFQwRumc&index=1&list=PL0K4VDicBzsibZqfa42DVxC8CGCMB7G2G
